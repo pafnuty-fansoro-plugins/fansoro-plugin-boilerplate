@@ -1,6 +1,6 @@
-name: My Plugin
+name: Custom Action
 version: 1.0.0
-description: "My First Plugin for Morfy CMS"
+description: "Custom Action Plugin for Morfy CMS"
 author:
   name: John Doe
   email: johndoe@gmail.com

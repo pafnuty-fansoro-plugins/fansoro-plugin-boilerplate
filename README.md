@@ -1,16 +1,11 @@
-# Plugin boilerplate for [Morfy CMS](http://morfy.org/)
+# Morfy Plugins boilerplate
 
-![version](https://img.shields.io/badge/version-1.0.0-brightgreen.svg?style=flat-square "Version")
-![DLE](https://img.shields.io/badge/Morfy-2.x-green.svg?style=flat-square "Morfy Version")
-[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/pafnuty-morfy-plugins/morfy-plugin-boilerplate/master/LICENSE)
+## :exclamation: This is not a plugin! This is the presets for the plugins, which you can easily create your plug-in.
 
-This example implement a simple plugin for Morfy CMS.
+This repository contains typical examples of the plugin for Morfy CMS.
 
-## Install & Configuration
-See [this instruction](http://morfy.org/documentation/plugins/plugins-installation)
+Each folder is a separate example of a plugin with all necessary for work.
 
-## License 
-[MIT](https://github.com/pafnuty-morfy-plugins/morfy-plugin-boilerplate/blob/master/LICENSE)
 
 
 
