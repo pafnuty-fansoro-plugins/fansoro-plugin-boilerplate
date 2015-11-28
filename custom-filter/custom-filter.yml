@@ -1,0 +1,13 @@
+name: Custom Filter
+version: 1.0.0
+description: "Custom Filter Plugin for Morfy CMS"
+author:
+  name: John Doe
+  email: johndoe@gmail.com
+  url: https://github.com/pafnuty
+homepage: https://github.com/pafnuty-morfy-plugins/morfy-plugin-boilerplate
+bugs: https://github.com/pafnuty-morfy-plugins/morfy-plugin-boilerplate/issues
+license: MIT
+
+# Plugin settings
+enabled: true
