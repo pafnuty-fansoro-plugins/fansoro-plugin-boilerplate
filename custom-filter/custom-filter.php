@@ -1,9 +1,9 @@
 <?php
 /**
- * Custom Filter Plugin for Morfy CMS
- * Based on https://github.com/pafnuty-morfy-plugins/morfy-plugin-boilerplate/custom-filter
+ * Custom Filter Plugin for Fansoro CMS
+ * Based on https://github.com/pafnuty-fansoro-plugins/fansoro-plugin-boilerplate/custom-filter
  *
- * @package    Morfy
+ * @package    Fansoro
  * @subpackage Plugins
  * @author     John Doe
  * @version    1.0.0

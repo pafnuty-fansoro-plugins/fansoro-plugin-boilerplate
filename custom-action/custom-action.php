@@ -1,9 +1,9 @@
 <?php
 /**
- * Custom Action Plugin for Morfy CMS
- * Based on https://github.com/pafnuty-morfy-plugins/morfy-plugin-boilerplate/custom-action
+ * Custom Action Plugin for Fansoro CMS
+ * Based on https://github.com/pafnuty-fansoro-plugins/fansoro-plugin-boilerplate/custom-action
  *
- * @package    Morfy
+ * @package    Fansoro
  * @subpackage Plugins
  * @author     John Doe
  * @version    1.0.0
